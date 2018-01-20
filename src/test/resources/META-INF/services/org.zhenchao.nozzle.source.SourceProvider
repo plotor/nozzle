@@ -1,0 +1,2 @@
+org.zhenchao.nozzle.source.provider.ClasspathSourceProvider
+org.zhenchao.nozzle.source.provider.FilesystemSourceProvider
